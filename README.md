@@ -4,9 +4,7 @@ Convert UMN classes on MyU to iCalendar file
 
 ## Install
 
-[**Chrome** extension]() (upcoming)
-
-or install manually from GitHub:
+Install manually from GitHub:
 
 ```
 git clone https://github.com/generic-placeholder-name/umn-classes-to-calendar.git
